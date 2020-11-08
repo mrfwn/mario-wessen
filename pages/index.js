@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to My Profile - <a href="https://www.linkedin.com/in/m%C3%A1rio-wessen-7b3a57119">Mário Wessen!</a>
+        Sorry, I'm still building my portfolio - <a href="https://www.linkedin.com/in/m%C3%A1rio-wessen-7b3a57119">Mário Wessen!</a>
         </h1>
 
         <div className={styles.grid}>
